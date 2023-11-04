@@ -1,0 +1,15 @@
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\bin\Debug\net6.0\04.exe
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\bin\Debug\net6.0\04.deps.json
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\bin\Debug\net6.0\04.runtimeconfig.json
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\bin\Debug\net6.0\04.dll
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\bin\Debug\net6.0\04.pdb
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\04.csproj.AssemblyReference.cache
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\04.AssemblyInfoInputs.cache
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\04.AssemblyInfo.cs
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\04.csproj.CoreCompileInputs.cache
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\04.dll
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\refint\04.dll
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\04.pdb
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\04.genruntimeconfig.cache
+C:\Users\Священик\Desktop\Учёба\Lesson 6\Seminar\04\obj\Debug\net6.0\ref\04.dll
